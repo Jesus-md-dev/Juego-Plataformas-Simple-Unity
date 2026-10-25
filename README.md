@@ -4,7 +4,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C#-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Project files and build:** [Google Drive](https://drive.google.com/drive/folders/1pg0cZfuFdTvOmBQDDrpLCeYjO_5QE3MB?usp=sharing)
+**Play in the browser:** [lab.jzmarquez.com/space-ball](https://lab.jzmarquez.com/space-ball/) · **Gameplay video:** [YouTube](https://www.youtube.com/watch?v=7Ij2qMfMZoE)
 
 More about my games at [jzmarquez.com](https://jzmarquez.com/).
 
